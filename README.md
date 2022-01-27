@@ -17,5 +17,3 @@ In my freetime, I'm trying to improve my efficiency in the tools that I use in m
 ![Stats](https://github-readme-stats.vercel.app/api?username=EduardoPazz&count_private=true&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPazz&count_private=true&layout=compact&theme=synthwave)
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=EduardoPazz&theme=synthwave)
