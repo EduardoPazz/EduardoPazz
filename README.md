@@ -9,7 +9,7 @@ I'm also majoring Information Systems at Universidade de São Paulo, currently s
 
 ### 🔍 Where you can reach me
 <a href = "mailto:jooeduardo8@gmail.com"><img src="https://img.shields.io/badge/Gmail-2B203A?style=for-the-badge&logo=gmail&logoColor=E5289E" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardo-da-paz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2B203A?style=for-the-badge&logo=linkedin&logoColor=E5289E" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/edu-paz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2B203A?style=for-the-badge&logo=linkedin&logoColor=E5289E" target="_blank"></a> 
 <a href="https://t.me/EduardoPaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2B203A?style=for-the-badge&logo=telegram&logoColor=E5289E" target="_blank"></a> 
 
 
