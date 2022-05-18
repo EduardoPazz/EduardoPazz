@@ -1,11 +1,11 @@
 ### 👋 Hi
 I'm Eduardo da Paz. You may call me just "Edu".
 
-I'm a Software Engineer Intern @ [QuintoAndar](https://www.quintoandar.com.br/) since August 2021, currently working on SEO-focused projects, mainly related to content pages about the regions that QuintoAndar operates on: https://www.quintoandar.com.br/regioes-atendidas.
+I'm a Software Engineer Intern @ [QuintoAndar](https://www.quintoandar.com.br/) since August 2021, currently working on SEO-focused projects, mainly related to content pages about the regions that QuintoAndar operates on: https://www.quintoandar.com.br/regioes-atendidas and transactional pages under https://www.quintoandar.com.br/alugar/imovel domain.
 
-In my job I mainly use React and common related tools in *frontend*, and Java with Spring in *backend*.
+In my job I mainly use React and common related tools in *frontend*, like TypeScript, NextJS, Redux, and so on.
 
-In my freetime, I'm trying to improve my efficiency in the tools that I use in my job, and also learn a bit of mobile development with Flutter.
+I'm also majoring Information Systems at Universidade de São Paulo, currently studying concepcts of AI, HCI (Human-Computer Interaction) and Automata Theory
 
 ### 🔍 Where you can reach me
 <a href = "mailto:jooeduardo8@gmail.com"><img src="https://img.shields.io/badge/Gmail-2B203A?style=for-the-badge&logo=gmail&logoColor=E5289E" target="_blank"></a>
