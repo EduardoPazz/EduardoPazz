@@ -1,19 +1,7 @@
-### 👋 Hi
-I'm Eduardo da Paz. You may call me just "Edu".
+As a Full Stack Software Engineer at QuintoAndar since 2021, I thrive on building robust, end-to-end solutions. I enjoy the challenge of working across the entire stack, from tackling tricky backend logic to creating seamless user experiences. While I am skilled in both, I hold a strong preference for backend development.
 
-I'm a Software Engineer Intern @ [QuintoAndar](https://www.quintoandar.com.br/) since August 2021, currently working on SEO-focused projects, mainly related to content pages about the regions that QuintoAndar operates on: https://www.quintoandar.com.br/regioes-atendidas and transactional pages under https://www.quintoandar.com.br/alugar/imovel domain.
+On the frontend, I leverage React, Next.js, and TypeScript/JavaScript to build fast, SEO-friendly websites that users love.
 
-In my job I mainly use React and common related tools in *frontend*, like TypeScript, NextJS, Redux, and so on.
+For the backend, I focus on developing high-performance, observable microservices using Java and the Spring framework.
 
-I'm also majoring Information Systems at Universidade de São Paulo, currently studying concepts of AI, HCI (Human-Computer Interaction) and Automata Theory.
-
-### 🔍 Where you can reach me
-<a href = "mailto:jooeduardo8@gmail.com"><img src="https://img.shields.io/badge/Gmail-2B203A?style=for-the-badge&logo=gmail&logoColor=E5289E" target="_blank"></a>
-<a href="https://www.linkedin.com/in/edu-paz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2B203A?style=for-the-badge&logo=linkedin&logoColor=E5289E" target="_blank"></a> 
-<a href="https://t.me/EduardoPaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2B203A?style=for-the-badge&logo=telegram&logoColor=E5289E" target="_blank"></a> 
-
-
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=EduardoPazz&count_private=true&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPazz&count_private=true&layout=compact&theme=synthwave)
+I love digging into complex problems and hunting down bugs 🐞, always with a focus on improving system availability and throughput. I'm a graduate of the Information Systems program at the University of São Paulo (USP).
